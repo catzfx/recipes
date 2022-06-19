@@ -7,6 +7,11 @@
     font-size: 15px;
 }
 
+body {
+    width: 60em;
+    margin: auto;
+}
+
 .title {
     background-color: #ffffff;
     color:#000000;
