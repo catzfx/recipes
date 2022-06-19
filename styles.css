@@ -1,0 +1,37 @@
+* {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    list-style-position: inside;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.title {
+    background-color: #ffffff;
+    color:#000000;
+    font-size: 40px;
+}
+
+.subtitle {
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 25px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+ul {
+    list-style:circle;
+}
+
+a {
+    font-weight: bold;
+}
+
+h4 a {
+    font-weight: bold;
+}
